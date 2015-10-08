@@ -1,4 +1,4 @@
-![Pairing-proof](img/pairing-proof.jpg "Proof-pairing")
+![Pairing-proof](/img/pairing-proof.jpg "Proof-pairing")
 
 **Bold**
 *Italics*
